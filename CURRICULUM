@@ -1,0 +1,68 @@
+  <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum Vitae</title>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Currículum Vitae</h1>
+
+        <!-- Información Personal -->
+        <div class="section">
+            <h2>Datos Personales</h2>
+            <p><strong>Nombre:</strong> Ricardo Adolfo Corral Fernández</p>
+            <p><strong>Email:</strong> ricardo@email.com</p>
+            <p><strong>Teléfono:</strong> +123 456 7890</p>
+        </div>
+
+        <!-- Imágenes -->
+        <div class="section">
+            <h2>Imágenes y Enlaces</h2>
+            <div class="images">
+                <div style="display: inline-block; width: 48%; vertical-align: top;">
+                    <a href="https://www.freepik.es/fotos-vectores-gratis/logo-tecnologia" target="_blank">
+                        <img src="https://img.freepik.com/vector-gratis/muestra-logo-abstracto-degradado_23-2148158912.jpg?t=st=1737316430~exp=1737320030~hmac=f515d179d2cf58c694e3c20118da0166b9658d8fcb7e4e78881320dcf5b7696b&w=740" alt="Logo abstracto relacionado con tecnología" width="150" />
+                    </a>
+                </div>
+                <div style="display: inline-block; width: 48%; text-align: right; vertical-align: top;">
+                    <a href="https://www.facebook.com/?locale=es_LA" target="_blank">
+                        <img src="https://scontent.fmex11-2.fna.fbcdn.net/v/t39.30808-6/462313564_1066208188289104_3951706741114943534_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=w9t7yes0uLUQ7kNvgHLQb_H&_nc_zt=23&_nc_ht=scontent.fmex11-2.fna&_nc_gid=AkByp4_63TMgdt3XvP41zNp&oh=00_AYBmL0TDcGiPYDnvQAhPCW9lS1aPi6n5vKNtSrLa1_N0vg&oe=679313CB" alt="Foto personal" width="150" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Experiencia Laboral -->
+        <div class="section">
+            <h2>Experiencia Laboral</h2>
+            <p><strong>Área:</strong> Informática</p>
+            <p>He trabajado en diferentes proyectos relacionados con la tecnología, abarcando áreas como programación, gestión de bases de datos, redes y desarrollo de software.</p>
+        </div>
+
+        <!-- Educación -->
+        <div class="section">
+            <h2>Educación</h2>
+            <p><strong>Grado:</strong> Educación Superior</p>
+            <p>Formación en áreas tecnológicas, enfocada en la programación, redes y desarrollo de sistemas.</p>
+        </div>
+
+        <!-- Habilidades -->
+        <div class="section">
+            <h2>Habilidades</h2>
+            <p><strong>Habilidad Principal:</strong> Tecnología</p>
+            <p>Conocimientos avanzados en el uso de herramientas tecnológicas, programación, y gestión de sistemas informáticos. Capacidad para adaptarme rápidamente a nuevas tecnologías.</p>
+        </div>
+
+        <!-- Enlaces Sociales -->
+        <div class="section">
+            <h2>Redes Sociales</h2>
+            <p><a href="https://www.linkedin.com" target="_blank">LinkedIn</a> | <a href="https://github.com" target="_blank">GitHub</a> | <a href="https://twitter.com" target="_blank">Twitter</a></p>
+        </div>
+
+    </div>
+
+</body>
+</html>
